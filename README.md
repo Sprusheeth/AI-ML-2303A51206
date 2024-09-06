@@ -12,6 +12,7 @@
 [lab5]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/lab5_AIML.ipynb
 
 <h1>(NOTE:- Lab2,lab3 A* Algorithm,lab3 A* 2, All three labs code is same I have completed lab 3 code in a lab 2 itself)</h1>
+<br>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -165,87 +166,3 @@
             color: #e63946;
             margin-bottom: 15px;
         }
-
-        ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        ul li {
-            margin-bottom: 10px;
-            color: #ccc;
-        }
-
-        .buttons {
-            margin-top: 20px;
-            text-align: center;
-        }
-
-        .buttons a {
-            text-decoration: none;
-            padding: 10px 20px;
-            border-radius: 50px;
-            border: 2px solid #e63946;
-            color: #e63946;
-            font-weight: bold;
-            transition: all 0.3s ease;
-            display: inline-block;
-        }
-
-        .buttons a:hover {
-            background-color: #e63946;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="profile-side">
-            <div class="profile-picture">
-                <img src="spru.jpg" alt="Profile Picture">
-            </div>
-            <h1>Sprusheeth Rao</h1>
-            <h2>B.Tech Second Year, SR University</h2>
-            <div class="social-links">
-                <a href="https://www.facebook.com/yourprofile" target="_blank" class="facebook"></a>
-                <a href=https://www.instagram.com/sprusheeth_rao/ target="_blank" class="instagram"></a>
-                <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="linkedin"></a>
-            </div>
-            <p>To leverage my skills in software development and problem-solving as a B.Tech second-year student at SR University. I aim to contribute to innovative projects while gaining hands-on experience in the field of Computer Science and Engineering.</p>
-        </div>
-        <div class="content-side">
-            <h3>Education</h3>
-            <ul>
-                <li>Bachelor of Technology, SR University, Second Year (2023-2027)</li>
-                <li>Completed Higher Secondary Schooling with 90% in Science Stream</li>
-                <li>Completed Secondary Schooling with 92% overall</li>
-            </ul>
-
-            <h3>Skills</h3>
-            <ul>
-                <li>Programming Languages: Python, JavaScript, HTML, CSS</li>
-                <li>Web Development: React, Node.js, Bootstrap</li>
-                <li>Database Management: MySQL, MongoDB</li>
-                <li>Version Control: Git, GitHub</li>
-                <li>Problem-Solving and Algorithms</li>
-            </ul>
-
-            <h3>Personal Details</h3>
-            <ul>
-                <li>Address: 1-8-598, National Highway 163, Balasamudram, Hanamkonda, Telangana 506001, India</li>
-                <li>Phone: +91 9490799234</li>
-                <li>Email: sprusheeth@gmail.com (2303A51206@sru.edu.in)</li>
-                <li>Date of Birth: August 12, 2005</li>
-                <li>Languages Known: English, Hindi, Telugu</li>
-            </ul>
-
-            <div class="buttons">
-                <a href="#">Download CV</a>
-                <a href="mailto:sprusheeth@gmail.com">Contact</a>
-                <a href="assignment2.html">Alternate</a>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
