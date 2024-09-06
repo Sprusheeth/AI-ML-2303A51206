@@ -4,4 +4,5 @@
 <br>
 [lab4]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/lab4AIML.ipynb
 <br>
-[lab4code2]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/lab4AIML2.ipynb
+[lab4code2]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/lab4AIML2.ipynb<br>
+[lab5]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/lab5_AIML.ipynb
