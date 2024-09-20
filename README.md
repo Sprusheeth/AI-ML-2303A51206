@@ -14,7 +14,7 @@
 
 [lab6]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/LAB6AIML.ipynb<br>
 
-[lab7]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/Lab07_(1).ipynb ,
+[lab7]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/Lab07_(1).ipynb
 [1]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/Lab7.ipynb<br>
 
 <h1>(NOTE:- Lab2,lab3 A* Algorithm,lab3 A* 2, All three labs code is same I have completed lab 3 code in a lab 2 itself)</h1>
