@@ -17,4 +17,9 @@
 [lab7]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/Lab07_(1).ipynb
 [1]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/Lab7.ipynb<br>
 
+[lab8]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/Lab8.ipynb
+[1]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/lab8(2).ipynb<br>
+
+[lab10]https://github.com/Sprusheeth/AI-ML-2303A51206/blob/main/Lab10_KMeans.ipynb<br>
+
 <h1>(NOTE:- Lab2,lab3 A* Algorithm,lab3 A* 2, All three labs code is same I have completed lab 3 code in a lab 2 itself)</h1>
